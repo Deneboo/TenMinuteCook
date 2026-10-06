@@ -1,0 +1,5 @@
+grumphp:
+    tasks:
+        phpcsfixer:
+            config: '.php-cs-fixer.dist.php'
+            triggered_by: ['php']
